@@ -31,7 +31,7 @@ freee API用のModel Context Protocol (MCP) サーバー実装です。AIアシ�
 1. リポジトリをクローンします：
 
 ```bash
-git clone https://github.com/yourusername/mcp-freee.git
+git clone https://github.com/createcentury/mcp-freee.git
 cd mcp-freee
 ```
 
