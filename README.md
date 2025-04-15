@@ -49,6 +49,8 @@ Claude Desktopアプリで使用するには、以下の設定を行います：
    `/Users/[ユーザー名]/Library/Application Support/Claude/claude_desktop_config.json`
 
 2. 以下の設定を追加します：
+   アクセストークンと事業者IDは公式サイトから取得して下さい。
+   https://accounts.secure.freee.co.jp/login/app_store/developers
 
 ```json
 {
